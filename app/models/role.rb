@@ -14,5 +14,4 @@ class Role < ApplicationRecord
   def to_s
     character
   end
-
 end
